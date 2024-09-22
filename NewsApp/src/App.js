@@ -11,7 +11,7 @@ import ModeState from './components/context/ModeState';
 
 function App() {
   const pageSize = 5;
-  const country = "in";
+  const country = "us";
   const apiKey = process.env.REACT_APP_NEWS_API_TWO;
   return (
     <>
